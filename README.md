@@ -82,6 +82,13 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+
 ### Data & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,8 +102,10 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Cloud, DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### Tools
@@ -135,6 +144,7 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 | 🛡️ [Sentinel](https://github.com/tanishq0421/Sentinel) | Agent evaluation & OWASP-aligned red-teaming platform with hybrid RAG (pgvector + BM25) and a live agent-assurance dashboard | Python · FastAPI · LangGraph · Next.js |
 | 📡 [OutageRadar](https://github.com/tanishq0421/OutageRadar) | Async, event-driven RSS status tracker monitoring OpenAI/Claude/GitHub feeds via a Redis producer/consumer pipeline | Python · aiohttp · Redis · Docker |
 | 🛒 [Omnicart](https://github.com/tanishq0421/Omnicart) | Production-level e-commerce backend | TypeScript · Node.js |
+| 🎫 [Richpanel](https://github.com/tanishq0421/Richpanel) | Internal tool for support-agent schedule configuration and business-hours resolution-time reporting | Python · FastAPI · PostgreSQL · React · TypeScript · Docker |
 
 </div>
 
