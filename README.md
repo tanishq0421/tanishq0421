@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tanishq%20Shukla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%40%20Surgegrowth%20%7C%20Backend%20and%20Agentic%20Systems&descAlignY=60&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tanishq%20Shukla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ex-Founding%20Engineer%20%40%20Surgegrowth%20%7C%20Backend%20and%20Agentic%20Systems&descAlignY=60&descColor=a78bfa" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Founding+Engineer+%40+Surgegrowth+%F0%9F%9A%80;Backend+%26+Distributed+Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Agentic+Systems+%26+LLM+Infra+%F0%9F%A4%96;Ex-IIT+(BHU)+Varanasi+%F0%9F%8E%93;Always+Shipping%2C+Always+Learning+%F0%9F%93%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Ex-Founding+Engineer+%40+Surgegrowth+%F0%9F%9A%80;Backend+%26+Distributed+Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Agentic+Systems+%26+LLM+Infra+%F0%9F%A4%96;Ex-IIT+(BHU)+Varanasi+%F0%9F%8E%93;Always+Shipping%2C+Always+Learning+%F0%9F%93%A6" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@
 name: Tanishq Shukla
 location: Bengaluru, Karnataka, India 🇮🇳
 education: B.Tech in Chemical Engineering — IIT (BHU), Varanasi (2021 - 2025)
-current_role: Founding Engineer @ Surgegrowth
+last_role: Ex-Founding Engineer @ Surgegrowth (Feb 2025 - Aug 2026)
 
 focus_areas:
   - Backend & Distributed Systems (Kafka, Redis, Postgres, Pub/Sub)
@@ -51,7 +51,7 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 
 ## 💼 Experience
 
-**Founding Engineer · Surgegrowth** — *Feb 2025 - Present*
+**Ex-Founding Engineer · Surgegrowth** — *Feb 2025 - Aug 2026*
 - Built an MCP server (FastMCP) serving ~12k tool calls/day for Claude.ai/Cursor, secured with full OAuth 2.1 (PKCE, dynamic client registration, rotating refresh tokens)
 - Co-built usage-based billing processing $10k+/mo at 99.99% success, metering usage across 40+ orgs
 - Replaced paid scraping APIs with in-house scrapers, cutting costs ~89% ($1,800 → $200/mo)
@@ -160,12 +160,12 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 
 ---
 
-## 🔭 Currently Building
+## 🏗️ Built at Surgegrowth
 
-- 🧩 **Multi-model media gateway** @ Surgegrowth — integrating Veo 3.1, Nano Banana & Seedance with async per-provider rate limiting
+- 🧩 **Multi-model media gateway** — integrated Veo 3.1, Nano Banana & Seedance with async per-provider rate limiting
 - 🎬 **Media processing engine** — FFmpeg + self-hosted ML inference (MDX-Net/ONNX, DeepFilterNet) processing 500k+ frames/day
 - 📊 **Usage analytics on ClickHouse** — sub-second cost & workflow queries synced via PeerDB CDC
-- 🛡️ **Sentinel** — expanding the red-team attack catalog and agent-assurance dashboard
+- 🛡️ **Sentinel** — expanded the red-team attack catalog and agent-assurance dashboard
 
 ---
 
