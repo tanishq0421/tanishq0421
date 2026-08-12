@@ -44,6 +44,12 @@ interests:
   - LLMs / RAG / Agentic Frameworks
   - Startup building & 0-to-1 engineering
 
+exploring_next:
+  - Model Inference Optimization
+  - Knowledge Distillation
+  - Model Quantization
+  - Voice AI Models
+
 fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙️"
 ```
 
@@ -158,6 +164,17 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 - 🎬 **Media processing engine** — FFmpeg + self-hosted ML inference (MDX-Net/ONNX, DeepFilterNet) processing 500k+ frames/day
 - 📊 **Usage analytics on ClickHouse** — sub-second cost & workflow queries synced via PeerDB CDC
 - 🛡️ **Sentinel** — expanded the red-team attack catalog and agent-assurance dashboard
+
+---
+
+## 🔭 What's Next
+
+Moving deeper into the systems side of AI — how models actually run in production, not just how they're prompted:
+
+- ⚡ **Model Inference Optimization**
+- 🧪 **Knowledge Distillation** — compressing large models into smaller, faster ones
+- 🔢 **Model Quantization** — efficient low-precision & edge-friendly deployment
+- 🎙️ **Voice AI Models**
 
 ---
 
