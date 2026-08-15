@@ -87,7 +87,10 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Real-time Communication
 ![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=websocket&logoColor=white)
+![Server-Sent Events](https://img.shields.io/badge/Server_Sent_Events-black?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
