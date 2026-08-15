@@ -64,7 +64,16 @@ fun_fact: "Chemical Engineering degree, backend engineer by trade 🧪➡️⚙�
 - Co-designed distributed job infra handling ~50k requests/day on Postgres + Cloud Pub/Sub + Cloud Run
 
 **SDE Intern · Kimcc** — *May 2024 - Jul 2024*
+- Led two key projects, Pulse & Time Diary, within a week of joining; revamped Pulse analytics, lifting engagement 25%
+- Engineered a cross-platform Electron desktop app with secure auth, offline-first sync, and reliable productivity tracking
+- Resolved critical production bugs and built complex MongoDB aggregation pipelines that cut query time ~30%
+- Automated recurring workflows with Node.js cron jobs and scripts to accelerate task execution and boost productivity
+
 **SDE Intern · Oton** — *Dec 2023 - Feb 2024*
+- Transformed workflow with a custom Slack bot (Node.js) automating critical processes and improving team efficiency
+- Utilized Prisma to handle complex queries and administer PostgreSQL at scale, cutting query response time 25%
+- Crafted cursor-based pagination and integrated Jira APIs for boards, sprints, issues & tasks, enhancing dashboards
+- Implemented Redis Bull queues for efficient batch processing, smoothing system load under bursty job volumes
 
 ---
 
